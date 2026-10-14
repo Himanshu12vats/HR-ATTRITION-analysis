@@ -23,8 +23,7 @@ This project analyzes employee attrition to identify workforce patterns and high
 - Attrition among employees working overtime: 30.5%, compared with 10.4% among other employees.
 - A segment combining overtime, low satisfaction, and poor work-life balance showed 41.03% attrition.
 
-## Dashboard
-![HR Attrition Dashboard](HR_Attrition_Dashboard.png)
+
 
 ## Business Recommendations
 - Investigate retention challenges in high-attrition roles.
